@@ -1,0 +1,93 @@
+[
+    {
+        "type": "bird",
+        "name": "seagull",
+        "canFly": true,
+        "sound": "https://cdn.pixabay.com/audio/2022/01/18/audio_903927fe59.mp3",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/%D0%92%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%BE%D1%81%D0%B8%D0%B1%D0%B8%D1%80%D1%81%D0%BA%D0%B0%D1%8F_%D1%87%D0%B0%D0%B9%D0%BA%D0%B0_%D0%B2_%D0%BF%D0%BE%D0%BB%D1%91%D1%82%D0%B5_-_Larus_vegae_mongolicus.jpg"
+    },
+    {
+        "type": "bird",
+        "name": "chicken",
+        "canFly": false,
+        "sound": "https://cdn.pixabay.com/audio/2023/10/28/audio_17cc2a9998.mp3",
+        "image": "https://i.guim.co.uk/img/media/30646649ad38eca6e8ddd6108af6de13e43117a4/475_196_4518_3323/master/4518.jpg?width=465&dpr=1&s=none"
+    },
+    {
+        "type": "bird",
+        "name": "eagle",
+        "canFly": true,
+        "sound": "https://cdn.pixabay.com/audio/2022/03/10/audio_ea2fa317de.mp3",
+        "image": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/306062281/1800"
+    },
+    {
+        "type": "mammal",
+        "name": "horse",
+        "sound": "https://cdn.pixabay.com/audio/2022/10/23/audio_b3ca30d553.mp3",
+        "numLegs": 4,
+        "image": "https://cdn.britannica.com/93/1293-050-B835357D/Morgan-stallion-bay-coat.jpg"
+    },
+    {
+        "type": "mammal",
+        "name": "human",
+        "sound": "https://cdn.pixabay.com/audio/2022/03/24/audio_7981bb957c.mp3",
+        "numLegs": 2,
+        "image": "https://www.kenhub.com/thumbor/4wdnjNQFtAGLgKEtBO2IgF2hF3Q=/fit-in/800x1600/filters:watermark(/images/logo_url.png,-10,-10,0):background_color(FFFFFF):format(jpeg)/images/article/en/the-human-anatomy/PSXgfeg9rZtrnvNut7D8uQ_Human_anatomy.png"
+    },
+    {
+        "type": "reptile",
+        "name": "crocodile",
+        "sound": "https://cdn.pixabay.com/audio/2022/03/10/audio_7547b2d1bd.mp3",
+        "isAgressive": true,
+        "image": "https://c02.purpledshub.com/uploads/sites/62/2014/11/GettyImages-123529247-2a29d6c.jpg"
+    },
+    {
+        "type": "reptile",
+        "name": "gecko",
+        "sound": "https://cdn.pixabay.com/audio/2022/03/10/audio_c89621fe2e.mp3",
+        "isAgressive": false,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Eublepharis_macularius1.jpg/800px-Eublepharis_macularius1.jpg"
+    },
+    {
+        "type": "mammal",
+        "name": "whale",
+        "numLegs": 0,
+        "sound": "https://cdn.pixabay.com/audio/2022/03/10/audio_60ff5b13f4.mp3",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Southern_right_whale.jpg"
+    },
+    {
+        "type": "fish",
+        "name": "shark",
+        "isFreshWater": false,
+        "sound": "https://cdn.pixabay.com/audio/2022/03/14/audio_649d7679c7.mp3",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Corl0207_%2828225976491%29.jpg"
+    },
+    {
+        "type": "fish",
+        "name": "woodface",
+        "isFreshWater": false,
+        "sound": "https://rr1---sn-5hne6n6e.googlevideo.com/videoplayback?expire=1706842697&ei=6QW8ZcL8H8iZ4dUP14qniAE&ip=2800%3A4b0%3A5308%3Ae6f%3Aa022%3Acf5%3A9c53%3A1744&id=o-ALZtBP07Q-KVsvaibUo5FwI9QtaTOqyh73WkoPbdbgsf&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&vprv=1&svpuc=1&mime=audio%2Fwebm&gir=yes&clen=2562270&dur=159.861&lmt=1507689832395362&keepalive=yes&fexp=24007246&c=ANDROID&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cvprv%2Csvpuc%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIga6PRMlK0mKwyE9r03wpdbLXHBa349jvP6pKPpSpSXTACIQD9a1UC_efT47uZinosNvc8Jm_57AbxkhqJ0CIzceap9A%3D%3D&rm=sn-ja5gv2x-aphz7s&req_id=2c4673b4988fa3ee&cmsv=e&redirect_counter=2&cm2rm=sn-njaee7z&cms_redirect=yes&mh=2E&mip=85.244.90.90&mm=34&mn=sn-5hne6n6e&ms=ltu&mt=1706820270&mv=m&mvi=1&pl=24&lsparams=mh,mip,mm,mn,ms,mv,mvi,pl&lsig=AAO5W4owRAIgOsi0Jb1OwqaN--6D6jgmfx59hgwuaRcMazPCLhR5b5wCIBoh1-MiUe_pVjTglVJnJ2nX05cIJk_4T1syNQEp1MVy",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/MaAji.jpg"
+    },
+    {
+        "type": "fish",
+        "name": "trout",
+        "isFreshWater": true,
+        "sound": "https://cdn.pixabay.com/audio/2022/01/18/audio_4bf02d9d82.mp3",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Salmo_trutta.jpg"
+    },
+    {
+        "type": "insect",
+        "name": "mosquito",
+        "canFly": true,
+        "sound": "https://cdn.pixabay.com/audio/2021/09/12/audio_76301fd0ea.mp3",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Mosquito_2007-2.jpg"
+    },
+    {
+        "type": "insect",
+        "name": "ant",
+        "canFly": false,
+        "sound": "https://cdn.pixabay.com/audio/2022/03/15/audio_81c4bdf1ed.mp3",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/94/Fire_ants_01.jpg"
+    }
+]

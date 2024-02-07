@@ -1,0 +1,69 @@
+@font-face {
+    font-family: 'Gotham Book';
+    src: 
+        url('https://www.example.com/assets/fonts/Gotham-Book.eot'),
+        url('https://www.example.com/assets/fonts/Gotham-Book.eot?#iefix') format('embedded-opentype'),
+        url('https://www.example.com/assets/fonts/Gotham-Book.woff2') format('woff2'),
+        url('https://www.example.com/assets/fonts/Gotham-Book.woff') format('woff'),
+        url('https://www.example.com/assets/fonts/Gotham-Book.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #161039;
+}
+
+.gallery-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    margin: auto;
+}
+
+.image img {
+    max-width: 100%;
+    height: auto;
+    border: 8px solid #49240a;
+    display: block;
+    margin: auto;
+    max-width: 90%;
+    height: auto;
+    border-radius: 0px;
+    box-shadow:
+    0 0 0 10px #7c3d11,
+    0 0 0 15px #49240a;
+}
+
+
+.button {
+    margin: 20px 0;
+}
+
+.button .play-stop {
+    padding: 10px 20px;
+    border: none;
+    background-color: #007bff;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.button .play-stop:hover {
+    background-color: #0056b3; 
+}
+
+.description .text {
+    font-family: 'GothamBook', Arial, Helvetica, sans-serif, 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: whitesmoke;
+    padding: 0 20px; 
+    max-width: 600px;
+}
