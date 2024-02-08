@@ -3,6 +3,9 @@ export default class ArtPiece {
     imageElement;
     labelElement;
     descriptionElement;
+    divLabelElement;
+    divDescriptionElement;
+    divImageElement;
     data;
 
     constructor(data) {
@@ -14,11 +17,20 @@ export default class ArtPiece {
         this.sectionElement = document.createElement("section");
         this.sectionElement.className = "gallery-section";
 
+        this.divImageElement = document.createElement("div")
+        this.divImageElement.className = "image-wrapper";
+
         this.imageElement = document.createElement("img");
         this.imageElement.className = "art-display";
 
+        this.divLabelElement = document.createElement("div")
+        this.divLabelElement.className = "label-wrapper";
+
         this.labelElement = document.createElement("label");
         this.labelElement.className = "title";
+
+        this.divDescriptionElement = document.createElement("div")
+        this.divDescriptionElement.className = "description-wrapper";
 
         this.descriptionElement = document.createElement("p");
         this.descriptionElement.className = "text";

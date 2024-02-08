@@ -1,6 +1,7 @@
 import artPiece from "./artPiece.js";
 
 export default class Photograph extends artPiece {
+
     constructor(data) {
         super(data);
         this.populateElements();
@@ -14,10 +15,15 @@ export default class Photograph extends artPiece {
     }
 
     attachElements() {
-        this.sectionElement.appendChild(this.imageElement);
-        this.sectionElement.appendChild(this.labelElement);
-        this.sectionElement.appendChild(this.descriptionElement);
+        this.sectionElement.appendChild(this.divImageElement);
+        this.sectionElement.appendChild(this.divLabelElement);
+        this.sectionElement.appendChild(this.divDescriptionElement);
+
+        this.divImageElement.appendChild(this.imageElement);
+        this.divLabelElement.appendChild(this.labelElement);
+        this.divDescriptionElement.appendChild(this.descriptionElement);
     
-        document.body.appendChild(this.sectionElement);
+        const sectionWrapper = document.querySelector('.section-wrapper');
+        sectionWrapper.appendChild(this.sectionElement);
     }
 }

@@ -15,10 +15,15 @@ export default class Drawing extends artPiece {
     }
 
     attachElements() {
-        this.sectionElement.appendChild(this.imageElement);
-        this.sectionElement.appendChild(this.labelElement);
-        this.sectionElement.appendChild(this.descriptionElement);
-    
-        document.body.appendChild(this.sectionElement);
+        this.sectionElement.appendChild(this.divImageElement);
+        this.sectionElement.appendChild(this.divLabelElement);
+        this.sectionElement.appendChild(this.divDescriptionElement);
+
+        this.divImageElement.appendChild(this.imageElement);
+        this.divLabelElement.appendChild(this.labelElement);
+        this.divDescriptionElement.appendChild(this.descriptionElement);
+        
+        const sectionWrapper = document.querySelector('.section-wrapper');
+        sectionWrapper.appendChild(this.sectionElement);
     }
 }

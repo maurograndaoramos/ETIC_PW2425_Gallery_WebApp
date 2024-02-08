@@ -10,59 +10,76 @@
     font-style: normal;
 }
 
+
 body, html {
     height: 100%;
-    margin: 0;
+    max-height: 100vh;
+    margin: 40px 0px 0px 0px;
     display: flex;
     justify-content: center;
     align-items: center;
     background-color: #161039;
+    flex-direction: column-reverse;
 }
+
+
 
 .gallery-section {
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    gap: 20px;
+    gap: 40px;
     margin: auto;
 }
 
-.image img {
-    max-width: 100%;
-    height: auto;
-    border: 8px solid #49240a;
-    display: block;
-    margin: auto;
-    max-width: 90%;
-    height: auto;
+.image-wrapper img {
+
+    max-height: 6   0vh; /* Adjust this value as needed */
+    width: auto; /* Maintain aspect ratio */
+    object-fit: contain; /* Ensures the image is scaled to fit while maintaining its aspect ratio */
+    margin-top: 50%;
+    border: 8px solid #49240a; /* Your existing border styles */
     border-radius: 0px;
-    box-shadow:
-    0 0 0 10px #7c3d11,
-    0 0 0 15px #49240a;
+    box-shadow: 0 0 0 10px #7c3d11, 0 0 0 15px #49240a;
 }
 
-.label .title {
+.label-wrapper {
+    background-color:rgb(0,0,0);
+    background-image:url(http://www.zingerbugimages.com/backgrounds/green_marble_background_seamless.jpg);
+    background-position:top left;
+    background-repeat:repeat;
+    background-attachment:fixed;
+    min-width: 50px;
+    min-height: 50px;
+    display:grid;
+    align-items: center;
+    
+}
+
+.label-wrapper .title {
     font-family: 'GothamBook', Arial, Helvetica, sans-serif, 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: center;
-    color: whitesmoke;
+    color: rgb(0, 0, 0);
     padding: 0 20px; 
     max-width: 600px;
 }
 
-.description .text {
+.description-wrapper .text {
     font-family: 'GothamBook', Arial, Helvetica, sans-serif, 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: center;
     color: whitesmoke;
+    margin:20px;
     padding: 0 20px; 
     max-width: 600px;
 }
+
 
 button {
     margin: 20px 0;
 }
 
-.description .play-stop {
+.description-wrapper .play-stop {
     padding: 10px 20px;
     border: none;
     background-color: #007bff;
@@ -71,6 +88,14 @@ button {
     cursor: pointer;
 }
 
-.description .play-stop:hover {
+.description-wrapper .play-stop:hover {
     background-color: #0056b3; 
+}
+
+.hidden {
+    display: none;
+}
+  
+.visible {
+    display: flex;
 }
