@@ -1,5 +1,6 @@
 export default class Carousel {
-    constructor(sectionSelector, prevButtonSelector, nextButtonSelector) {
+    constructor(sectionSelector, prevButtonSelector, nextButtonSelector, callback) {
+        this.callback = callback;
         this.sections = document.querySelectorAll(sectionSelector);
         this.currentIndex = 0;
         this.initSections();
@@ -15,6 +16,7 @@ export default class Carousel {
     }
 
     navigateToNext = () => {
+        this.callback()
         this.sections[this.currentIndex].classList.remove('visible');
         this.sections[this.currentIndex].classList.add('hidden');
         this.currentIndex = (this.currentIndex + 1) % this.sections.length;
@@ -23,6 +25,7 @@ export default class Carousel {
     }
 
     navigateToPrev = () => {
+        this.callback()
         this.sections[this.currentIndex].classList.remove('visible');
         this.sections[this.currentIndex].classList.add('hidden');
         this.currentIndex = (this.currentIndex - 1 + this.sections.length) % this.sections.length;

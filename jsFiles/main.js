@@ -6,7 +6,7 @@
 // }
 
 import Gallery from "./objectFiles/gallery.js"
-import Carousel from './objectFiles/carousel.js'
+
 
 window.onload = async () => {
     const request = await fetch("../test.json");
@@ -18,7 +18,5 @@ window.onload = async () => {
     result.forEach(item => {
         gallery.addArt(item);
     });
-
-    new Carousel('.section-wrapper > section', '#prevButton', '#nextButton');
-
+    gallery.finish()
 }

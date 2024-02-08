@@ -8,8 +8,10 @@ export default class ArtPiece {
     divImageElement;
     audioElement;
     data;
+    callback;
 
-    constructor(data) {
+    constructor(data, callback) {
+        this.callback = callback;
         this.data = data;
         this.createElements();
     }
@@ -35,8 +37,9 @@ export default class ArtPiece {
 
         this.descriptionElement = document.createElement("p");
         this.descriptionElement.className = "text";
-    // may not work
-        this.audioElement = new Audio();
-    // may not work
+    }
+
+    get audio() {
+        return this.data.descriptionSound
     }
 }
