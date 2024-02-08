@@ -12,16 +12,59 @@
 
 
 body, html {
-    height: 100%;
+    height: 100vh;
     max-height: 100vh;
     margin: 40px 0px 0px 0px;
     display: flex;
     justify-content: center;
     align-items: center;
     background-color: #161039;
-    flex-direction: column-reverse;
+    flex-direction: row;
+    overflow:initial
 }
 
+#prevButton {
+    z-index: 2;
+    font-size: x-large;
+    margin: 70px;
+    height: 100%;
+    width: 5%;
+    border: none;
+    color: whitesmoke;
+    background-color: #161039;
+}
+
+#prevButton:active {
+    z-index: 2;
+    margin: 70px;
+    height: 100%;
+    width: 5%;
+    border: none;
+    color: whitesmoke;
+    background-color: #1d1548;
+}
+
+
+#nextButton {
+    z-index: 2;
+    font-size: x-large;
+    margin: 70px;
+    height: 100%;
+    width: 5%;
+    border: none;
+    color: whitesmoke;
+    background-color: #161039;
+}
+
+#nextButton:active {
+    z-index: 2;
+    margin: 70px;
+    height: 100%;
+    width: 5%;
+    border: none;
+    color: whitesmoke;
+    background-color: #1d1548;
+}
 
 
 .gallery-section {
@@ -33,13 +76,16 @@ body, html {
     margin: auto;
 }
 
-.image-wrapper img {
+.image-wrapper {
+    margin-top: 25%;
+    object-fit: contain;
+}
 
-    max-height: 6   0vh; /* Adjust this value as needed */
-    width: auto; /* Maintain aspect ratio */
-    object-fit: contain; /* Ensures the image is scaled to fit while maintaining its aspect ratio */
-    margin-top: 50%;
-    border: 8px solid #49240a; /* Your existing border styles */
+.image-wrapper img {
+    max-height: 600px;
+    width: auto;
+    object-fit: contain;
+    border: 8px solid #49240a; 
     border-radius: 0px;
     box-shadow: 0 0 0 10px #7c3d11, 0 0 0 15px #49240a;
 }
@@ -54,6 +100,7 @@ body, html {
     min-height: 50px;
     display:grid;
     align-items: center;
+    border: 8px #007bff
     
 }
 
