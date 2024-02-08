@@ -3,109 +3,99 @@
         "type":"painting",
         "title":"The Reluctant Bride",
         "medium":"oil",
-        "image":,
-        "artist":"",
+        "image":"https://github.com/maurograndaoramos/projeto_final_temp/blob/main/styleFiles/images/the-reluctant-bride.png?raw=true",
+        "artist":" Auguste Toulmouche",
         "description":"Departing from Toulmouche's usual paintings of a single woman, this work is a more complicated composition showing a group of women in an opulently decorated room. At the centre, a young woman is seated in a flowing white satin silk dress with high collar trimmed with white fur. She stares out at the viewer, with an ambivalent expression that has attracted various interpretations. Her expression may express hostility, or perhaps resignation to her arranged marriage. She is attended by two women of similar age: the woman to the left in a blue-grey satin gown with a patterned shawl bends to kiss her forehead, while the woman to the right in burnt orange velvet gown is crouching to hold her left hand. A girl stands to the right, looking in a mirror as she tries on a bridal headdress of orange blossom, echoing the central figure's bouquet.",
         "descriptionSound":""
     },
     {
-        "type":"",
-        "title":"",
-        "medium":"",
+        "type":"painting",
+        "title":"Woman With A Parasol - Madame Monet And Her Son",
+        "medium":"oil",
         "image":"",
-        "artist":"",
-        "description":"",
+        "artist":"Claude Monet",
+        "description":"The painting is one of Monet's most recognizable and revered works and of impressionism as a whole. It's one of 18 works by Monet exhibited at the second Impressionist exhibition in April 1876, at the gallery of Paul Durand-Ruel. In it, Mrs Monet's veil is blown by the wind, as is her billowing white dress; the waving grass of the meadow is echoed by the green underside of her parasol. She is seen as if from below, with a strong upward perspective, against fluffy white clouds in an azure sky. A boy, Monet's seven-year-old son Jean, is placed further away, concealed behind a rise in the ground and visible only from the waist up, creating a sense of depth. Monet depicted the brevity of the moment using animated brush strokes full of vibrant color.",
         "descriptionSound":""
     },
     {
-        "type": "bird",
-        "name": "seagull",
-        "canFly": true,
-        "sound": "https://cdn.pixabay.com/audio/2022/01/18/audio_903927fe59.mp3",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/%D0%92%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%BE%D1%81%D0%B8%D0%B1%D0%B8%D1%80%D1%81%D0%BA%D0%B0%D1%8F_%D1%87%D0%B0%D0%B9%D0%BA%D0%B0_%D0%B2_%D0%BF%D0%BE%D0%BB%D1%91%D1%82%D0%B5_-_Larus_vegae_mongolicus.jpg"
+        "type":"painting",
+        "title":"The Wounded Deer",
+        "medium":"oil",
+        "image":"",
+        "artist":"Frida Kahlo",
+        "description":"Kahlo paints herself as an animal and human hybrid. She has the body of a deer along with antlers extending from her own head. The deer is standing up, its legs extended in action. Its front right leg is elevated off the ground, as though it is injured or in motion. In the deer's body are nine arrows, creating wounds from which blood flows. Through The Wounded Deer, Kahlo shares her enduring physical and emotional suffering with her audience, as she did throughout her creative oeuvre. This painting in particular was created towards the end of Kahlo's life, when her health was in decline. Kahlo painted this self-portrait after an operation on her spine, which would leave her bedridden for almost a year. During her recovery, she wore a steel corset, which can be seen in her late self-portraits.",
+        "descriptionSound":""
     },
     {
-        "type": "bird",
-        "name": "chicken",
-        "canFly": false,
-        "sound": "https://cdn.pixabay.com/audio/2023/10/28/audio_17cc2a9998.mp3",
-        "image": "https://i.guim.co.uk/img/media/30646649ad38eca6e8ddd6108af6de13e43117a4/475_196_4518_3323/master/4518.jpg?width=465&dpr=1&s=none"
+        "type":"printmaking",
+        "title":"The Great Wave off Kanagawa",
+        "medium":"woodblock",
+        "image":"",
+        "artist":"Katsushika Hokusai",
+        "description":"The print is Hokusai's best-known work and the first in his series Thirty-six Views of Mount Fuji, in which the use of Prussian blue revolutionized Japanese prints. The composition of The Great Wave is a synthesis of traditional Japanese prints and use of graphical perspective developed in Europe, and earned him immediate success in Japan and later in Europe, where Hokusai's art inspired works by the Impressionists. Several museums throughout the world hold copies of The Great Wave, many of which came from 19th-century private collections of Japanese prints. Only about 100 prints, in varying conditions, are thought to have survived.",
+        "descriptionSound":""
     },
     {
-        "type": "bird",
-        "name": "eagle",
-        "canFly": true,
-        "sound": "https://cdn.pixabay.com/audio/2022/03/10/audio_ea2fa317de.mp3",
-        "image": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/306062281/1800"
+        "type":"printmaking",
+        "title":"Melencolia I",
+        "medium":"engraving",
+        "image":"",
+        "artist":"Albrecht Dürer",
+        "description":"Its central subject is an enigmatic and gloomy winged female figure thought to be a personification of melancholia – melancholy. Holding her head in her hand, she stares past the busy scene in front of her. The area is strewn with symbols and tools associated with craft and carpentry, including an hourglass, weighing scales, a hand plane, a claw hammer, and a saw. Other objects relate to alchemy, geometry or numerology. one of the most well-known extant old master prints, but, despite a vast art-historical literature, it has resisted any definitive interpretation. Dürer may have associated melancholia with creative activity; the woman may be a representation of a Muse, awaiting inspiration but fearful that it will not return. As such, Dürer may have intended the print as a veiled self-portrait. Other art historians see the figure as pondering the nature of beauty or the value of artistic creativity in light of rationalism, or as a purposely obscure work that highlights the limitations of allegorical or symbolic art.",
+        "descriptionSound":""
     },
     {
-        "type": "mammal",
-        "name": "horse",
-        "sound": "https://cdn.pixabay.com/audio/2022/10/23/audio_b3ca30d553.mp3",
-        "numLegs": 4,
-        "image": "https://cdn.britannica.com/93/1293-050-B835357D/Morgan-stallion-bay-coat.jpg"
+        "type":"printmaking",
+        "title":"Marilyn Diptych",
+        "medium":"Silkscreen",
+        "image":"",
+        "artist":"Andy Warhol",
+        "description":"This piece consists of 50 images. Each image of the actress is taken from the single publicity photograph from the film Niagara (released in 1953). The twenty-five images on the left are painted in color, the right side is black and white. It has been suggested that the relation between the left side of the canvas and the right side of the canvas is evocative of the relation between the celebrity's life and death. Marilyn Diptych was completed just weeks after Marilyn Monroe's death in August 1962.",
+        "descriptionSound":""
     },
     {
-        "type": "mammal",
-        "name": "human",
-        "sound": "https://cdn.pixabay.com/audio/2022/03/24/audio_7981bb957c.mp3",
-        "numLegs": 2,
-        "image": "https://www.kenhub.com/thumbor/4wdnjNQFtAGLgKEtBO2IgF2hF3Q=/fit-in/800x1600/filters:watermark(/images/logo_url.png,-10,-10,0):background_color(FFFFFF):format(jpeg)/images/article/en/the-human-anatomy/PSXgfeg9rZtrnvNut7D8uQ_Human_anatomy.png"
+        "type":"drawing",
+        "title":"Head of E.O.W",
+        "medium":"charcoal",
+        "image":"",
+        "artist":"Frank Auerbach",
+        "description":"'E.O.W.' - Estella (Stella) West - began posing regularly for Auerbach in the early 1950s, and continued to do so until 1973. By then he had completed about 80 drawings and paintings of her. This drawing was made entirely from life and took almost 70 sittings. In line with his usual practice, Auerbach constantly drew, erased and reworked the image. The final image is therefore built upon numerous previous attempts. In this way the portrait is saturated with the artist's accumulated experience of the model. As a result of this long process the paper became torn and abraded and necessitated the patch visible in the drawing.",
+        "descriptionSound":""
     },
     {
-        "type": "reptile",
-        "name": "crocodile",
-        "sound": "https://cdn.pixabay.com/audio/2022/03/10/audio_7547b2d1bd.mp3",
-        "isAgressive": true,
-        "image": "https://c02.purpledshub.com/uploads/sites/62/2014/11/GettyImages-123529247-2a29d6c.jpg"
+        "type":"drawing",
+        "title":"Head of a Woman (Turin)",
+        "medium":"silverpoint",
+        "image":"",
+        "artist":"Da Vinci",
+        "description":"Da Vinci regularly practiced his drawing skills throughout his career, and portraiture played a prominent role within that. He tended to cover young men and women, plus much older subjects, with relatively little in between. He loved to compare these contrasting ages, and observe their differences. This study displays his skills at their rawest, with most of the scene reduced to just a series of outlines. But in the centre we find the precision that he became famed for as a painter, with subtle tones creating a lifelike image. This was created by endless practice and observation.",
+        "descriptionSound":""
     },
     {
-        "type": "reptile",
-        "name": "gecko",
-        "sound": "https://cdn.pixabay.com/audio/2022/03/10/audio_c89621fe2e.mp3",
-        "isAgressive": false,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Eublepharis_macularius1.jpg/800px-Eublepharis_macularius1.jpg"
+        "type":"photograph",
+        "title":"The Blue Marble",
+        "medium":"hasselblad camera & zeiss lens",
+        "image":"",
+        "artist":"Harrison Schmitt",
+        "description":"Photograph of Earth taken on December 7, 1972, from a distance of around 29,400 kilometers (18,300 miles) from the planet's surface. It mainly shows Earth from the Mediterranean Sea to Antarctica. This was the first time the Apollo trajectory made it possible to photograph the south polar ice cap, despite the Southern Hemisphere being heavily covered in clouds. Without knowing it, those three astronauts had just portrayed a symbol. An image that continues to appear decades later on posters, paintings, films, advertising campaigns... which contributed to the emergence of the first great movement for the preservation of the planet.",
+        "descriptionSound":""
     },
     {
-        "type": "mammal",
-        "name": "whale",
-        "numLegs": 0,
-        "sound": "https://cdn.pixabay.com/audio/2022/03/10/audio_60ff5b13f4.mp3",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Southern_right_whale.jpg"
+        "type":"photograph",
+        "title":"Flower Power",
+        "medium":"olympus pen w camera & lens",
+        "image":"",
+        "artist":"Bernie Boston",
+        "description":"The photo shows protester George Harris placing a carnation into the barrel of an M14 rifle held by a soldier of the 503rd Military Police Battalion (Airborne). The Flower power movement began in Berkeley, California as a means of symbolic protest against the Vietnam War. Beat Generation writer Allen Ginsberg, in his November 1965 essay How to Make a March/Spectacle, promoted the use of 'masses of flowers' to hand to policemen, press, politicians and spectators to fight violence with peace. They intended the use of nonviolent objects such as toys, flags, candy and music to show that the peace movement was not associated with anger or violence. Members of the movement tried to offset the rallies of the Hells Angels motorcycle club, who supported the war.",
+        "descriptionSound":""
     },
     {
-        "type": "fish",
-        "name": "shark",
-        "isFreshWater": false,
-        "sound": "https://cdn.pixabay.com/audio/2022/03/14/audio_649d7679c7.mp3",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Corl0207_%2828225976491%29.jpg"
-    },
-    {
-        "type": "fish",
-        "name": "woodface",
-        "isFreshWater": false,
-        "sound": "https://rr1---sn-5hne6n6e.googlevideo.com/videoplayback?expire=1706842697&ei=6QW8ZcL8H8iZ4dUP14qniAE&ip=2800%3A4b0%3A5308%3Ae6f%3Aa022%3Acf5%3A9c53%3A1744&id=o-ALZtBP07Q-KVsvaibUo5FwI9QtaTOqyh73WkoPbdbgsf&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&vprv=1&svpuc=1&mime=audio%2Fwebm&gir=yes&clen=2562270&dur=159.861&lmt=1507689832395362&keepalive=yes&fexp=24007246&c=ANDROID&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cvprv%2Csvpuc%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIga6PRMlK0mKwyE9r03wpdbLXHBa349jvP6pKPpSpSXTACIQD9a1UC_efT47uZinosNvc8Jm_57AbxkhqJ0CIzceap9A%3D%3D&rm=sn-ja5gv2x-aphz7s&req_id=2c4673b4988fa3ee&cmsv=e&redirect_counter=2&cm2rm=sn-njaee7z&cms_redirect=yes&mh=2E&mip=85.244.90.90&mm=34&mn=sn-5hne6n6e&ms=ltu&mt=1706820270&mv=m&mvi=1&pl=24&lsparams=mh,mip,mm,mn,ms,mv,mvi,pl&lsig=AAO5W4owRAIgOsi0Jb1OwqaN--6D6jgmfx59hgwuaRcMazPCLhR5b5wCIBoh1-MiUe_pVjTglVJnJ2nX05cIJk_4T1syNQEp1MVy",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/MaAji.jpg"
-    },
-    {
-        "type": "fish",
-        "name": "trout",
-        "isFreshWater": true,
-        "sound": "https://cdn.pixabay.com/audio/2022/01/18/audio_4bf02d9d82.mp3",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Salmo_trutta.jpg"
-    },
-    {
-        "type": "insect",
-        "name": "mosquito",
-        "canFly": true,
-        "sound": "https://cdn.pixabay.com/audio/2021/09/12/audio_76301fd0ea.mp3",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Mosquito_2007-2.jpg"
-    },
-    {
-        "type": "insect",
-        "name": "ant",
-        "canFly": false,
-        "sound": "https://cdn.pixabay.com/audio/2022/03/15/audio_81c4bdf1ed.mp3",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/9/94/Fire_ants_01.jpg"
+        "type":"photograph",
+        "title":"Ford Strikers Riot",
+        "medium":"possibly a graflex anniversary speed graphic",
+        "image":"Milton Brooks",
+        "artist":"",
+        "description":"The image was taken in Dearborn, Michigan at the Rouge Plant of the Ford Motor Company during a worker Strike action on April 3, 1941. A peaceful picketing of the Ford Motor Company was interrupted when a single man clashed with the Union men who were picketing. The man ignored the advice of the Michigan State Police and crossed the picket lines. The photograph itself plays a partisan role for both employers and employees, as the image is a portrayal of the struggle in America between capital and labor.",
+        "descriptionSound":""
     }
 ]
