@@ -1,12 +1,21 @@
 [
     {
         "type":"painting",
+        "title":"Welcome - Read below or click our logo to start",
+        "medium":"oil",
+        "image":"https://github.com/maurograndaoramos/projeto_final_temp/blob/main/styleFiles/images/intro-image.png?raw=true",
+        "artist":" Mauro Ramos",
+        "description":"Welcome to etic_Gallery. We're glad to see you visit! Our gallery is a testament to the creativity that flourishes when artists wield their chosen mediums to tell stories, evoke emotions, and challenge perceptions. We are honored to serve as the bridge between these remarkable creators and you, the art enthusiasts who seek to enrich your lives with the beauty and insight that only art can provide. Helping you explore the works of art in our gallery are several guides, experts in each medium represented here digitally. You can listen to their descriptions of the works by pressing the images in your screen, or should you wish to appreciate these works of art by yourself, the description is readily available for you to read and enjoy. You can navigate to a different work by pressing the lateral arrows. I hope you enjoy your visit!",
+        "descriptionSound":"https://cdn.pixabay.com/audio/2023/07/05/audio_ea7208a779.mp3"
+    },
+    {
+        "type":"painting",
         "title":"The Reluctant Bride",
         "medium":"oil",
         "image":"https://github.com/maurograndaoramos/projeto_final_temp/blob/main/styleFiles/images/the_reluctant_bride.png?raw=true",
         "artist":" Auguste Toulmouche",
         "description":"Departing from Toulmouche's usual paintings of a single woman, this work is a more complicated composition showing a group of women in an opulently decorated room. At the centre, a young woman is seated in a flowing white satin silk dress with high collar trimmed with white fur. She stares out at the viewer, with an ambivalent expression that has attracted various interpretations. Her expression may express hostility, or perhaps resignation to her arranged marriage. She is attended by two women of similar age: the woman to the left in a blue-grey satin gown with a patterned shawl bends to kiss her forehead, while the woman to the right in burnt orange velvet gown is crouching to hold her left hand. A girl stands to the right, looking in a mirror as she tries on a bridal headdress of orange blossom, echoing the central figure's bouquet.",
-        "descriptionSound":""
+        "descriptionSound":"https://cdn.pixabay.com/audio/2023/07/05/audio_ea7208a779.mp3"
     },
     {
         "type":"painting",
@@ -15,7 +24,7 @@
         "image":"https://github.com/maurograndaoramos/projeto_final_temp/blob/main/styleFiles/images/woman_with_a_parasol_-_madame_monet_and_her_son.png?raw=true",
         "artist":"Claude Monet",
         "description":"The painting is one of Monet's most recognizable and revered works and of impressionism as a whole. It's one of 18 works by Monet exhibited at the second Impressionist exhibition in April 1876, at the gallery of Paul Durand-Ruel. In it, Mrs Monet's veil is blown by the wind, as is her billowing white dress; the waving grass of the meadow is echoed by the green underside of her parasol. She is seen as if from below, with a strong upward perspective, against fluffy white clouds in an azure sky. A boy, Monet's seven-year-old son Jean, is placed further away, concealed behind a rise in the ground and visible only from the waist up, creating a sense of depth. Monet depicted the brevity of the moment using animated brush strokes full of vibrant color.",
-        "descriptionSound":""
+        "descriptionSound":"https://cdn.pixabay.com/audio/2023/07/05/audio_ea7208a779.mp3"
     },
     {
         "type":"painting",
@@ -24,7 +33,7 @@
         "image":"https://github.com/maurograndaoramos/projeto_final_temp/blob/main/styleFiles/images/the_wounded_deer.png?raw=true",
         "artist":"Frida Kahlo",
         "description":"Kahlo paints herself as an animal and human hybrid. She has the body of a deer along with antlers extending from her own head. The deer is standing up, its legs extended in action. Its front right leg is elevated off the ground, as though it is injured or in motion. In the deer's body are nine arrows, creating wounds from which blood flows. Through The Wounded Deer, Kahlo shares her enduring physical and emotional suffering with her audience, as she did throughout her creative oeuvre. This painting in particular was created towards the end of Kahlo's life, when her health was in decline. Kahlo painted this self-portrait after an operation on her spine, which would leave her bedridden for almost a year. During her recovery, she wore a steel corset, which can be seen in her late self-portraits.",
-        "descriptionSound":""
+        "descriptionSound":"https://cdn.pixabay.com/audio/2023/07/05/audio_ea7208a779.mp3"
     },
     {
         "type":"printmaking",
@@ -33,7 +42,7 @@
         "image":"https://github.com/maurograndaoramos/projeto_final_temp/blob/main/styleFiles/images/Tsunami.png?raw=true",
         "artist":"Katsushika Hokusai",
         "description":"The print is Hokusai's best-known work and the first in his series Thirty-six Views of Mount Fuji, in which the use of Prussian blue revolutionized Japanese prints. The composition of The Great Wave is a synthesis of traditional Japanese prints and use of graphical perspective developed in Europe, and earned him immediate success in Japan and later in Europe, where Hokusai's art inspired works by the Impressionists. Several museums throughout the world hold copies of The Great Wave, many of which came from 19th-century private collections of Japanese prints. Only about 100 prints, in varying conditions, are thought to have survived.",
-        "descriptionSound":""
+        "descriptionSound":"https://cdn.pixabay.com/audio/2023/07/05/audio_ea7208a779.mp3"
     },
     {
         "type":"printmaking",
@@ -42,7 +51,7 @@
         "image":"https://github.com/maurograndaoramos/projeto_final_temp/blob/main/styleFiles/images/Melencolia_I.png?raw=true",
         "artist":"Albrecht Dürer",
         "description":"Its central subject is an enigmatic and gloomy winged female figure thought to be a personification of melancholia – melancholy. Holding her head in her hand, she stares past the busy scene in front of her. The area is strewn with symbols and tools associated with craft and carpentry, including an hourglass, weighing scales, a hand plane, a claw hammer, and a saw. Other objects relate to alchemy, geometry or numerology. one of the most well-known extant old master prints, but, despite a vast art-historical literature, it has resisted any definitive interpretation. Dürer may have associated melancholia with creative activity; the woman may be a representation of a Muse, awaiting inspiration but fearful that it will not return. As such, Dürer may have intended the print as a veiled self-portrait. Other art historians see the figure as pondering the nature of beauty or the value of artistic creativity in light of rationalism, or as a purposely obscure work that highlights the limitations of allegorical or symbolic art.",
-        "descriptionSound":""
+        "descriptionSound":"https://cdn.pixabay.com/audio/2023/07/05/audio_ea7208a779.mp3"
     },
     {
         "type":"printmaking",
@@ -51,7 +60,7 @@
         "image":"https://github.com/maurograndaoramos/projeto_final_temp/blob/main/styleFiles/images/marilyn_diptych.png?raw=true",
         "artist":"Andy Warhol",
         "description":"This piece consists of 50 images. Each image of the actress is taken from the single publicity photograph from the film Niagara (released in 1953). The twenty-five images on the left are painted in color, the right side is black and white. It has been suggested that the relation between the left side of the canvas and the right side of the canvas is evocative of the relation between the celebrity's life and death. Marilyn Diptych was completed just weeks after Marilyn Monroe's death in August 1962.",
-        "descriptionSound":""
+        "descriptionSound":"https://cdn.pixabay.com/audio/2023/07/05/audio_ea7208a779.mp3"
     },
     {
         "type":"drawing",
@@ -60,7 +69,7 @@
         "image":"https://github.com/maurograndaoramos/projeto_final_temp/blob/main/styleFiles/images/head_of_e-o-w.png?raw=true",
         "artist":"Frank Auerbach",
         "description":"'E.O.W.' - Estella (Stella) West - began posing regularly for Auerbach in the early 1950s, and continued to do so until 1973. By then he had completed about 80 drawings and paintings of her. This drawing was made entirely from life and took almost 70 sittings. In line with his usual practice, Auerbach constantly drew, erased and reworked the image. The final image is therefore built upon numerous previous attempts. In this way the portrait is saturated with the artist's accumulated experience of the model. As a result of this long process the paper became torn and abraded and necessitated the patch visible in the drawing.",
-        "descriptionSound":""
+        "descriptionSound":"https://cdn.pixabay.com/audio/2023/07/05/audio_ea7208a779.mp3"
     },
     {
         "type":"drawing",
@@ -69,7 +78,7 @@
         "image":"https://github.com/maurograndaoramos/projeto_final_temp/blob/main/styleFiles/images/head_of_a_girl.png?raw=true",
         "artist":"Da Vinci",
         "description":"Da Vinci regularly practiced his drawing skills throughout his career, and portraiture played a prominent role within that. He tended to cover young men and women, plus much older subjects, with relatively little in between. He loved to compare these contrasting ages, and observe their differences. This study displays his skills at their rawest, with most of the scene reduced to just a series of outlines. But in the centre we find the precision that he became famed for as a painter, with subtle tones creating a lifelike image. This was created by endless practice and observation.",
-        "descriptionSound":""
+        "descriptionSound":"https://cdn.pixabay.com/audio/2023/07/05/audio_ea7208a779.mp3"
     },
     {
         "type":"photograph",
@@ -78,7 +87,7 @@
         "image":"https://github.com/maurograndaoramos/projeto_final_temp/blob/main/styleFiles/images/the_earth_seen_from_apollo_17.png?raw=true",
         "artist":"Harrison Schmitt",
         "description":"Photograph of Earth taken on December 7, 1972, from a distance of around 29,400 kilometers (18,300 miles) from the planet's surface. It mainly shows Earth from the Mediterranean Sea to Antarctica. This was the first time the Apollo trajectory made it possible to photograph the south polar ice cap, despite the Southern Hemisphere being heavily covered in clouds. Without knowing it, those three astronauts had just portrayed a symbol. An image that continues to appear decades later on posters, paintings, films, advertising campaigns... which contributed to the emergence of the first great movement for the preservation of the planet.",
-        "descriptionSound":""
+        "descriptionSound":"https://cdn.pixabay.com/audio/2023/07/05/audio_ea7208a779.mp3"
     },
     {
         "type":"photograph",
@@ -87,15 +96,15 @@
         "image":"https://github.com/maurograndaoramos/projeto_final_temp/blob/main/styleFiles/images/flower_power.png?raw=true",
         "artist":"Bernie Boston",
         "description":"The photo shows protester George Harris placing a carnation into the barrel of an M14 rifle held by a soldier of the 503rd Military Police Battalion (Airborne). The Flower power movement began in Berkeley, California as a means of symbolic protest against the Vietnam War. Beat Generation writer Allen Ginsberg, in his November 1965 essay How to Make a March/Spectacle, promoted the use of 'masses of flowers' to hand to policemen, press, politicians and spectators to fight violence with peace. They intended the use of nonviolent objects such as toys, flags, candy and music to show that the peace movement was not associated with anger or violence. Members of the movement tried to offset the rallies of the Hells Angels motorcycle club, who supported the war.",
-        "descriptionSound":""
+        "descriptionSound":"https://cdn.pixabay.com/audio/2023/07/05/audio_ea7208a779.mp3"
     },
     {
         "type":"photograph",
         "title":"Ford Strikers Riot",
         "medium":"possibly a graflex anniversary speed graphic",
-        "image":"Milton Brooks",
-        "artist":"https://github.com/maurograndaoramos/projeto_final_temp/blob/main/styleFiles/images/ford_strikers_riot.png?raw=true",
+        "image":"https://github.com/maurograndaoramos/projeto_final_temp/blob/main/styleFiles/images/ford_strikers_riot.png?raw=true",
+        "artist":"Milton Brooks",
         "description":"The image was taken in Dearborn, Michigan at the Rouge Plant of the Ford Motor Company during a worker Strike action on April 3, 1941. A peaceful picketing of the Ford Motor Company was interrupted when a single man clashed with the Union men who were picketing. The man ignored the advice of the Michigan State Police and crossed the picket lines. The photograph itself plays a partisan role for both employers and employees, as the image is a portrayal of the struggle in America between capital and labor.",
-        "descriptionSound":""
+        "descriptionSound":"https://cdn.pixabay.com/audio/2023/07/05/audio_ea7208a779.mp3"
     }
 ]

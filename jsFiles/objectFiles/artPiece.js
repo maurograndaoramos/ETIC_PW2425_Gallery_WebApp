@@ -6,6 +6,7 @@ export default class ArtPiece {
     divLabelElement;
     divDescriptionElement;
     divImageElement;
+    audioElement;
     data;
 
     constructor(data) {
@@ -34,5 +35,8 @@ export default class ArtPiece {
 
         this.descriptionElement = document.createElement("p");
         this.descriptionElement.className = "text";
+    // may not work
+        this.audioElement = new Audio();
+    // may not work
     }
 }
