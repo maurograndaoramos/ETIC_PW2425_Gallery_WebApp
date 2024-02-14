@@ -18,20 +18,11 @@ export default class Carousel {
     navigateToNext = () => {
         this.callback()
         this.setVisibility(1)
-        //this.sections[this.currentIndex].classList.remove('visible');
-        //this.sections[this.currentIndex].classList.add('hidden');
-        //this.sections[this.currentIndex].classList.remove('hidden');
-        //this.sections[this.currentIndex].classList.add('visible');
     }
     
     navigateToPrev = () => {
         this.callback()
         this.setVisibility(-1)
-        // this.currentIndex = (this.currentIndex - 1 + this.sections.length) % this.sections.length;
-        //this.sections[this.currentIndex].classList.remove('visible');
-        //this.sections[this.currentIndex].classList.add('hidden');
-        //this.sections[this.currentIndex].classList.remove('hidden');
-        //this.sections[this.currentIndex].classList.add('visible');
     }
     
     addEventListeners() {

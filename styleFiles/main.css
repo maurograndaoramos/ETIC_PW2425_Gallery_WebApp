@@ -54,12 +54,12 @@ body, html {
 }
 
 .image-wrapper {
-    margin-top: 25%;
+    margin-top: 10%;
     object-fit: contain;
 }
 
 .image-wrapper img {
-    max-height: 500px;
+    max-height: 600px;
     width: auto;
     object-fit: contain;
     border: 8px solid #49240a; 
@@ -77,12 +77,12 @@ body, html {
     min-height: 50px;
     display:grid;
     align-items: center;
-    border: 8px #007bff
     
 }
 
 .label-wrapper .title {
     font-family: 'GothamBook', Arial, Helvetica, sans-serif, 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
     font-weight: 400;
     text-align: center;
     color: rgba(255, 214, 49, 0);
@@ -93,9 +93,12 @@ body, html {
 
 .description-wrapper .text {
     font-family: 'GothamBook', Arial, Helvetica, sans-serif, 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    text-align: center;
+    text-align: justify;
+    line-height: 135%;
+    font-size: 125%;
+    text-indent: 5%;
     font-weight: 400;
-    color: rgb(255, 255, 255);
+    color: whitesmoke;
     margin:20px;
     padding: 20px 20px; 
     max-width: 600px;
